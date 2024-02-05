@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Lora&display=swap');
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(180deg, #F4F4F4 0%, #FFF 100%);
+}
+.wrapper{
+  width: 1440px;
+  position: relative;
+  margin: auto;
+  height: 1379px;
+}
+
+.title{
+  width: 458px;
+  height: 135px;
+  flex-shrink: 0;
+  color: #54575A;
+  font-family: Lora;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 67.5px;
+  top: 269.75px;
+  left: 201px;
+  position: absolute;
+}
+.text{
+  position: absolute;
+  width: 394px;
+  height: 96px;
+  flex-shrink: 0;
+  top: 436.75px;
+  left: 201px;
+
+  color: #54575A;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.brand-img{
+  position: absolute;
+  width: 193px;
+  height: 47.64px;
+  top: 84px;
+  left: 201px;
+}
+.app-store-btn{
+  position: absolute;
+  width: 138.44px;
+  height: 46.28px;
+  top: 564.75px;
+  left: 201px;
+}
+.google-play-btn{
+  position: absolute;
+  width: 156.19px;
+  height: 46.28px;
+  top: 564.75px;
+  left: 361.81px;
+}
+.main-image-container{
+  position: absolute;
+  width: 566.43px;
+  height: 327px;
+  top: 206px;
+  left: 733px;
+}
+.image1{
+  position: absolute;
+  top: 930px;
+  left: 515px;
+}
+.image2{
+  position: absolute;
+  top: 1159px;
+  left: 278px;
+}
+.image3{
+  position: absolute;
+  top: 1159px;
+  left: 753px;
+
+}
+.image4{
+  position: absolute;
+  top: 930px;
+  left: 990px;
+}
+.image5{
+  position: absolute;
+  top: 685px;
+  left: 753px;
+}
